@@ -8,6 +8,7 @@ GameOverflow is a web application that revolves around gaming. Users can create 
 
 ###Jensen Bouzi
 * GitHub: (https://github.com/jbouzi12)
+
 ###Xiran Ou
 * GitHub: (https://github.com/xiranou)
 
